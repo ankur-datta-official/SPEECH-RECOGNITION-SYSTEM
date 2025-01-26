@@ -12,7 +12,7 @@
 
 **Mentor Name**: Neela Santhosh 
 
-##Description
+## Description
 
 This Python script implements a basic speech-to-text system using the `speech_recognition` and `pydub` libraries. It is capable of transcribing short audio clips into text.
 
