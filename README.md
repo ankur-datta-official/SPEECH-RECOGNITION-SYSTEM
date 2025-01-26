@@ -1,3 +1,15 @@
+**Company**: CODTECH IT SOLUTIONS PVT.LTD
+
+**Name**: Ankur Datta
+
+**Intern ID**: CT08JSJ
+
+**Domain**: Artificial Intelligence
+
+**Batch Duration**: January 5th, 2025 to February 5th, 2025
+
+**Mentor Name**: Neela Santhosh 
+
 # Speech Recognition System
 
 This Python script implements a basic speech-to-text system using the `speech_recognition` and `pydub` libraries. It is capable of transcribing short audio clips into text.
