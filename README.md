@@ -1,3 +1,5 @@
+# Speech Recognition System
+
 **Company**: CODTECH IT SOLUTIONS PVT.LTD
 
 **Name**: Ankur Datta
@@ -10,7 +12,7 @@
 
 **Mentor Name**: Neela Santhosh 
 
-# Speech Recognition System
+##Description
 
 This Python script implements a basic speech-to-text system using the `speech_recognition` and `pydub` libraries. It is capable of transcribing short audio clips into text.
 
